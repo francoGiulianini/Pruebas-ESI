@@ -1,8 +1,8 @@
-GET platoprincipal:ingrediente1
-GET platoprincipal:ingrediente2
-GET platoprincipal:ingrediente3
-GET platoprincipal:ingrediente4
 GET platoprincipal:ingrediente5
+GET platoprincipal:ingrediente4
+GET platoprincipal:ingrediente3
+GET platoprincipal:ingrediente2
+GET platoprincipal:ingrediente1
 SET platoprincipal:ingrediente1 milanesadecarne
 SET platoprincipal:ingrediente2 queso
 SET platoprincipal:ingrediente3 jamon
