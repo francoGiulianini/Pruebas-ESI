@@ -19,7 +19,6 @@ SET nintendo:consola:gamecube FinalFantasyTactics
 SET nintendo:consola:wii MarioGalaxy
 SET nintendo:consola:wii MarioGalaxy2
 SET nintendo:consola:wiiu RIP
-SET nintendo:consola:switch ZeldaBOTW
 SET nintendo:consola:nintendo64 MarioKart
 SET sony:consola:ps1 FF7
 SET nintendo:consola:nintendo64 PkmnSnap
@@ -32,3 +31,4 @@ SET sony:consola:ps3 GodOfWar3
 SET microsoft:consola:xbox Halo
 SET microsoft:consola:xbox360 Halo
 SET microsoft:consola:xboxone Halo
+SET nintendo:consola:switch ZeldaBOTW
